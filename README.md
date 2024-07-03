@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lala-kumar
-- 👀 I’m interested in React,HTML,CSS,frontend development
-- 🌱 I’m currently learning next.js DSA
-- 💞️ I’m looking to collaborate on: Open source contribution
+- 👀 I’m interested in React js,Next js, frontend development
+- 🌱 I’m currently learning Node js
+- 💞️ I’m looking to collaborate on: Open source contribution and freelancing
 
 <!---
 Lala-kumar/Lala-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
